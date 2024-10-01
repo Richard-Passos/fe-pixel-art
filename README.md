@@ -1,16 +1,16 @@
-<h1 align="center">🗄️ Pixel Art</h1>
+<h1 align="center">🗄️ FE Template</h1>
 
 <br>
 
 ## 🚀 Run project
 
-Visit the live [website](https://fepixelart.vercel.app)
+Visit the live [website](https://fetemplate.vercel.app)
 
 <br>
 
 ## 📝 Description
 
-Unleash your creativity with a pixel-perfect canvas! Draw, design, and create stunning pixel art effortlessly.
+A clean, scalable front-end template built with React, Next.js, and TypeScript. This template is designed to streamline the development of modern web applications by offering an organized file structure, pre-configured tools like TailwindCSS for styling, Jest for testing, and linting support. Ideal for developers who want a solid starting point for new projects, with focus on performance, maintainability, and flexibility. Easily customizable to suit different project needs.
 
 <br/>
 
@@ -57,4 +57,4 @@ Meet the talented individuals who brought this masterpiece to life:
 
 ## 🎯 Status
 
-Finished
+In progress
